@@ -190,9 +190,9 @@ Also included are the results from the Principles You personality test (Principl
 ## How to Access the Code
 
 - **Backend Server Repository:**  
-  [https://github.com/Shikhar0018/leanchat_server](https://github.com/Shikhar0018/leanchat_server)
+  [https://github.com/aravindrajpurohit/Business-AI-Chatbot-Server](https://github.com/aravindrajpurohit/Business-AI-Chatbot-Server)
 - **Frontend Code Repository:**  
-  [https://github.com/Shikhar0018/mena-chat-partner](https://github.com/Shikhar0018/mena-chat-partner)
+  [https://github.com/aravindrajpurohit/Business-AI-Chatbot](https://github.com/aravindrajpurohit/Business-AI-Chatbot)
 
 You can download the complete code by clicking the "Download ZIP" option on GitHub.
 
