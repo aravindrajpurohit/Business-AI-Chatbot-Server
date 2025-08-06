@@ -202,9 +202,8 @@ You can download the complete code by clicking the "Download ZIP" option on GitH
 
 For any questions or further information regarding these deliverables, please contact:
 
-**Name:** Shikhar Jain  
-**Email:** shikharjain2001@gmail.com  
-<!-- **Phone:** +91 9717393656 -->
+**Name:** Aravind Rajpurohit  
+**Email:** aravindsingh2622@gmail.com 
 
 ---
 
